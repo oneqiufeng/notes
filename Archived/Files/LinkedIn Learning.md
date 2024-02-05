@@ -2,8 +2,8 @@
 
 网址：https://www.linkedin.com/learning/
 账号：ucbqlm0@ucl.ac.uk 
-密码（跳转后界面）：Gwux897Z5srX 
-（上图界面输入）领英密码：7&gZ4Rs3，需要联系老师用Gmail验证。
+密码（跳转后界面）：**********
+（上图界面输入）领英密码：**********，需要联系老师用Gmail验证。
 
 # Lessons
 
