@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2908fda0f4fd62c8","type":"file","file":"2023年/2023年12月/Sustainable road alignment planning in the built environment based on the MCDM-GIS method.md","x":-460,"y":-240,"width":620,"height":160,"color":"6"},
+		{"id":"0e7f5a93e19ef26f","type":"file","file":"归档/picture/建筑数字孪生与拆迁成本估算.png","x":280,"y":-240,"width":400,"height":237,"color":"4"}
+	],
+	"edges":[
+		{"id":"d5faf6bd096105f1","fromNode":"0e7f5a93e19ef26f","fromSide":"left","toNode":"2908fda0f4fd62c8","toSide":"right"}
+	]
+}

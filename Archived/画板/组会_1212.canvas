@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"60d3311de4744211","type":"group","x":-540,"y":-80,"width":290,"height":200,"label":"需求"},
+		{"id":"d8816330f372510f","type":"group","x":-200,"y":-80,"width":290,"height":200,"label":"落地"},
+		{"id":"dd97361604f26913","type":"text","text":"核心在于数据处理\n（Data Processing）","x":-1140,"y":-60,"width":250,"height":60},
+		{"id":"71f223107eb0aaed","type":"text","text":"GIS","x":-1005,"y":-200,"width":250,"height":60,"color":"1"},
+		{"id":"85f2dc368eb6e90c","type":"text","text":"ArcGIS Pro 软件","x":-1140,"y":40,"width":250,"height":60},
+		{"id":"7ca3aac14fa15bc6","type":"text","text":"Graph","x":-709,"y":-200,"width":250,"height":60,"color":"1"},
+		{"id":"b6e18e538a2d1252","type":"text","text":"可解释的图神经网络","x":-849,"y":-60,"width":250,"height":60},
+		{"id":"e2daae41708bca72","type":"text","text":"Coding (Python Java...)","x":-849,"y":40,"width":250,"height":60},
+		{"id":"c5b7af4efa4700e8","type":"text","text":"我们需要什么人","x":-520,"y":-60,"width":250,"height":60,"color":"4"},
+		{"id":"627f81078cec72da","type":"text","text":"我们需要什么技术","x":-520,"y":40,"width":250,"height":60,"color":"4"},
+		{"id":"ca2293ab4409b819","type":"file","file":"归档/picture/组会1212_0.jpg","x":-1015,"y":-551,"width":399,"height":291,"color":"4"},
+		{"id":"779e2bc1cc5d3c61","type":"text","text":"水","x":-180,"y":-60,"width":250,"height":60,"color":"5"},
+		{"id":"0844655f48cffceb","type":"text","text":"光","x":-180,"y":40,"width":250,"height":60,"color":"3"},
+		{"id":"c4cbcdee8e0d1a59","type":"file","file":"归档/picture/组会1212_1.jpg","x":-421,"y":-620,"width":400,"height":291,"color":"4"},
+		{"id":"80a2316a2958603c","type":"text","text":"UE(前端)","x":-395,"y":-200,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"e083642e9d256d8c","fromNode":"ca2293ab4409b819","fromSide":"right","toNode":"c4cbcdee8e0d1a59","toSide":"left"},
+		{"id":"9dd71acc15a714f7","fromNode":"71f223107eb0aaed","fromSide":"bottom","toNode":"dd97361604f26913","toSide":"top"},
+		{"id":"8096ce32e5df8e72","fromNode":"71f223107eb0aaed","fromSide":"bottom","toNode":"85f2dc368eb6e90c","toSide":"top"},
+		{"id":"10d61f13eb2e921f","fromNode":"7ca3aac14fa15bc6","fromSide":"bottom","toNode":"b6e18e538a2d1252","toSide":"top"},
+		{"id":"8f86e46ebb52df38","fromNode":"7ca3aac14fa15bc6","fromSide":"bottom","toNode":"e2daae41708bca72","toSide":"top"}
+	]
+}

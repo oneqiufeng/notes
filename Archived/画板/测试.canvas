@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"8a862ccf36cd9b09","type":"file","file":"归档/草稿1109.md","x":111,"y":-341,"width":400,"height":241,"color":"4"},
+		{"id":"753dd8bda317ed5a","type":"file","file":"2023年/2023年11月/2023年11月19日.md","x":-980,"y":-341,"width":400,"height":281,"color":"3"},
+		{"id":"60fbacb43e76ca0c","type":"file","file":"2023年/2023年11月/施一公：如何做一名优秀的博士生.md","x":-1060,"y":-520,"width":560,"height":50,"color":"2"},
+		{"id":"4cac450cf44d2c24","type":"text","text":"Canvas Logic with me.","x":-60,"y":-520,"width":250,"height":60,"color":"5"},
+		{"id":"80816a91dad26a34","type":"file","file":"2023年/2023年11月/高水平的Introduction.md","x":-400,"y":-391,"width":400,"height":341,"color":"1"}
+	],
+	"edges":[
+		{"id":"34e652d66d8e062b","fromNode":"80816a91dad26a34","fromSide":"right","toNode":"8a862ccf36cd9b09","toSide":"left"},
+		{"id":"fa40160ce2dd11da","fromNode":"80816a91dad26a34","fromSide":"top","toNode":"4cac450cf44d2c24","toSide":"left"},
+		{"id":"80518425cd207452","fromNode":"4cac450cf44d2c24","fromSide":"right","toNode":"8a862ccf36cd9b09","toSide":"top"},
+		{"id":"41a6928574da184b","fromNode":"60fbacb43e76ca0c","fromSide":"right","toNode":"80816a91dad26a34","toSide":"left"},
+		{"id":"cc863db2597c1acf","fromNode":"60fbacb43e76ca0c","fromSide":"top","toNode":"4cac450cf44d2c24","toSide":"top","label":"look forward to"},
+		{"id":"d95ba38036888125","fromNode":"753dd8bda317ed5a","fromSide":"bottom","toNode":"8a862ccf36cd9b09","toSide":"bottom","label":"same"},
+		{"id":"a72ca93d5da9bf41","fromNode":"753dd8bda317ed5a","fromSide":"top","toNode":"60fbacb43e76ca0c","toSide":"bottom"}
+	]
+}

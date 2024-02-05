@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"1d48e6d56e422d52","type":"group","x":-2200,"y":-1120,"width":880,"height":374,"color":"6","label":"研究方法+理论底座"},
+		{"id":"1efe603578100fb6","type":"group","x":-1240,"y":-1213,"width":440,"height":467,"color":"5","label":"内容02"},
+		{"id":"28670d14006743e6","type":"group","x":-2720,"y":-1213,"width":440,"height":467,"color":"2","label":"内容01"},
+		{"id":"cfc460e09675c21f","type":"file","file":"2023年/2023年12月/量化城市形态学：涌现、概念及城市设计响应.md","x":-1740,"y":-1055,"width":400,"height":89,"color":"6"},
+		{"id":"06d4b862b301c72e","type":"file","file":"2023年/2023年12月/The potential of implementing superblocks for multifunctional street use in cities.md","x":-1740,"y":-906,"width":400,"height":140,"color":"6"},
+		{"id":"b3bd0c98fb0de605","type":"file","file":"2023年/2023年12月/建筑节能设计基础参数数据平台.md","x":-2700,"y":-1169,"width":400,"height":137,"color":"2"},
+		{"id":"bb89897a8e3efc5b","type":"file","file":"2023年/2023年12月/城市在洪泛区快速扩张.md","x":-1220,"y":-864,"width":400,"height":98,"color":"5"},
+		{"id":"9b96bde452c81084","type":"file","file":"归档/picture/海绵城市建设要求.jpg","x":-1170,"y":-1151,"width":300,"height":193,"color":"5"},
+		{"id":"57fd8c7238fdeaa2","type":"file","file":"2023年/2023年12月/建筑遮阳.md","x":-2700,"y":-983,"width":400,"height":50,"color":"2"},
+		{"id":"2abfcc41479479ca","type":"file","file":"2023年/2023年12月/叶赪：绿色建筑设计实践.md","x":-2700,"y":-902,"width":400,"height":50,"color":"2"},
+		{"id":"ef94c8e2a80e8a90","type":"file","file":"2023年/2023年12月/城市热岛.md","x":-2700,"y":-822,"width":400,"height":55,"color":"2"},
+		{"id":"5e253f487294380e","type":"file","file":"2023年/2023年12月/城市形态.md","x":-2179,"y":-1055,"width":400,"height":89,"color":"6"},
+		{"id":"137c3b3769eb743c","type":"file","file":"2023年/2023年12月/Scaling of the morphology of African cities.md","x":-2179,"y":-906,"width":400,"height":140,"color":"6"},
+		{"id":"412d4273cbe3ec01","type":"file","file":"2023年/2023年12月/光伏城市.md","x":-2520,"y":-1480,"width":700,"height":100,"color":"6"},
+		{"id":"2bbe5cd73a54e5a0","type":"file","file":"2023年/2023年12月/海绵城市.md","x":-1720,"y":-1480,"width":700,"height":100,"color":"6"},
+		{"id":"e8665b9bae61bf7c","type":"file","file":"2023年/2023年12月/城市计算.md","x":-2090,"y":-1320,"width":700,"height":99,"color":"6"},
+		{"id":"1d0be321e6855170","type":"text","text":"# 波光粼粼，水天一色。","x":-1958,"y":-1680,"width":359,"height":70,"color":"4"}
+	],
+	"edges":[
+		{"id":"e61c8a4158e4fc20","fromNode":"412d4273cbe3ec01","fromSide":"top","toNode":"1d0be321e6855170","toSide":"bottom"},
+		{"id":"1c50ef1f07fb7ff5","fromNode":"2bbe5cd73a54e5a0","fromSide":"top","toNode":"1d0be321e6855170","toSide":"bottom"},
+		{"id":"695f3a87fea9eabe","fromNode":"1d48e6d56e422d52","fromSide":"top","toNode":"e8665b9bae61bf7c","toSide":"bottom"},
+		{"id":"b3a584acc35aa7bd","fromNode":"e8665b9bae61bf7c","fromSide":"left","toNode":"412d4273cbe3ec01","toSide":"bottom"},
+		{"id":"f974efe5920fe81b","fromNode":"e8665b9bae61bf7c","fromSide":"right","toNode":"2bbe5cd73a54e5a0","toSide":"bottom"},
+		{"id":"a7b9e710c0fb3f33","fromNode":"1efe603578100fb6","fromSide":"top","toNode":"2bbe5cd73a54e5a0","toSide":"right"},
+		{"id":"46a5888c359cbe50","fromNode":"28670d14006743e6","fromSide":"top","toNode":"412d4273cbe3ec01","toSide":"left"}
+	]
+}

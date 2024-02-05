@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"29db2fc2a9aa06a6","type":"file","file":"归档/picture/研究内容_V2.png","x":-1120,"y":-280,"width":1063,"height":580},
+		{"id":"dcf7bdec9eba8d46","type":"file","file":"2023年/2023年12月/Sustainable road alignment planning in the built environment based on the MCDM-GIS method.md","x":-539,"y":440,"width":679,"height":367},
+		{"id":"0bb2a27f95c37a48","type":"file","file":"2023年/2023年12月/基于数据驱动的城市道路改扩建规划方法.md","x":-1120,"y":578,"width":400,"height":92}
+	],
+	"edges":[
+		{"id":"8954076489f230d8","fromNode":"dcf7bdec9eba8d46","fromSide":"left","toNode":"0bb2a27f95c37a48","toSide":"right"},
+		{"id":"845328bc6849c023","fromNode":"0bb2a27f95c37a48","fromSide":"left","toNode":"29db2fc2a9aa06a6","toSide":"left"}
+	]
+}

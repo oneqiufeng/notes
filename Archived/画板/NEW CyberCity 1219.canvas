@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"e8232337b7d44fbd","type":"group","x":-1680,"y":-1760,"width":880,"height":331,"label":"AIM"},
+		{"id":"f18b68c92baedb7a","type":"file","file":"归档/picture/组会1212_0.jpg","x":-1660,"y":-1740,"width":399,"height":291},
+		{"id":"669b94a1d3633d77","type":"file","file":"归档/picture/组会1212_1.jpg","x":-1220,"y":-1740,"width":400,"height":291},
+		{"id":"dc953ed50fb0c918","type":"file","file":"归档/picture/课题组课题内容框架图思考.jpg","x":-1660,"y":-1360,"width":840,"height":1255},
+		{"id":"e761b97b068c9aa4","type":"text","text":"人类（感知）","x":-620,"y":-1554,"width":250,"height":60,"color":"6"},
+		{"id":"411048a9513e246e","type":"text","text":"水利","x":-620,"y":-1454,"width":250,"height":60,"color":"5"},
+		{"id":"7a75b1b63ea497f6","type":"text","text":"光电","x":-620,"y":-1654,"width":250,"height":60,"color":"2"},
+		{"id":"569728fb4ef36fd8","type":"text","text":"气候","x":-620,"y":-1774,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"28bfce13dd8fcaca","fromNode":"e761b97b068c9aa4","fromSide":"left","toNode":"569728fb4ef36fd8","toSide":"left"},
+		{"id":"f146e25218f716a6","fromNode":"569728fb4ef36fd8","fromSide":"right","toNode":"e761b97b068c9aa4","toSide":"right"},
+		{"id":"e393cfe4b6588734","fromNode":"569728fb4ef36fd8","fromSide":"left","toNode":"411048a9513e246e","toSide":"left"},
+		{"id":"1889c2591c94fe53","fromNode":"411048a9513e246e","fromSide":"right","toNode":"569728fb4ef36fd8","toSide":"right"},
+		{"id":"cb8f84b61fd1ece3","fromNode":"411048a9513e246e","fromSide":"left","toNode":"e761b97b068c9aa4","toSide":"left"},
+		{"id":"d06b4e21277addf8","fromNode":"7a75b1b63ea497f6","fromSide":"left","toNode":"e761b97b068c9aa4","toSide":"left"},
+		{"id":"24077d2db2125402","fromNode":"e761b97b068c9aa4","fromSide":"right","toNode":"7a75b1b63ea497f6","toSide":"right"},
+		{"id":"4afb571946b169dd","fromNode":"e761b97b068c9aa4","fromSide":"right","toNode":"411048a9513e246e","toSide":"right"},
+		{"id":"f02474677999f7d7","fromNode":"7a75b1b63ea497f6","fromSide":"left","toNode":"569728fb4ef36fd8","toSide":"left"},
+		{"id":"39fa709f7bf0610a","fromNode":"569728fb4ef36fd8","fromSide":"right","toNode":"7a75b1b63ea497f6","toSide":"right"}
+	]
+}

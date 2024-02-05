@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"844459c731b92086","type":"group","x":360,"y":-480,"width":340,"height":195,"label":"核心技术"},
+		{"id":"79553df6d09d2740","type":"file","file":"归档/picture/基于GNN的剪力墙结构梁布置方案设计方法.jpg","x":-100,"y":-100,"width":400,"height":215,"color":"4"},
+		{"id":"e09d0bee64ce4c38","type":"file","file":"归档/picture/剪力墙梁布置GNN_研究难题和关键科学问题.jpg","x":-200,"y":-340,"width":400,"height":178,"color":"4"},
+		{"id":"62c15491f3af8efc","type":"text","text":"潜在梁布置方案的图表征","x":380,"y":-365,"width":300,"height":60,"color":"1"},
+		{"id":"390a8a6e822ad4ad","type":"text","text":"潜在梁布置方案的生成","x":380,"y":-460,"width":300,"height":60,"color":"1"},
+		{"id":"0d5090cbd2c0727a","type":"text","text":"剪力墙结构的GNN梁布置智能设计方法","x":-620,"y":-460,"width":340,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"bfa7c8efc62951d3","fromNode":"e09d0bee64ce4c38","fromSide":"left","toNode":"79553df6d09d2740","toSide":"left"},
+		{"id":"8b92214f7aa72dff","fromNode":"79553df6d09d2740","fromSide":"right","toNode":"844459c731b92086","toSide":"left"},
+		{"id":"5be26ddf276895ec","fromNode":"0d5090cbd2c0727a","fromSide":"bottom","toNode":"e09d0bee64ce4c38","toSide":"top"},
+		{"id":"cce2590aed7cc4d2","fromNode":"e09d0bee64ce4c38","fromSide":"right","toNode":"844459c731b92086","toSide":"left"}
+	]
+}
