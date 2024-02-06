@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"029e364e55580937","type":"group","x":-1440,"y":-960,"width":1080,"height":520,"label":"论文部分"},
+		{"id":"b3027634678c1c9f","type":"file","file":"Paper/A multi-objective optimization framework for designing urban block forms considering daylight, energy consumption, and photovoltaic energy potential.md","x":-1420,"y":-920,"width":400,"height":440,"color":"6"},
+		{"id":"bd76dfb3954047d5","type":"file","file":"Paper/Accelerating the energy transition towards photovoltaic and wind in China.md","x":-960,"y":-920,"width":580,"height":80,"color":"1"},
+		{"id":"64171a37d8bb63a1","type":"file","file":"Paper/Combined solar power and storage as cost-competitive and grid-compatible supply for China’s future carbon-neutral electricity system.md","x":-960,"y":-754,"width":580,"height":108,"color":"1"}
+	],
+	"edges":[
+		{"id":"061ce9925cd4eb61","fromNode":"bd76dfb3954047d5","fromSide":"left","toNode":"b3027634678c1c9f","toSide":"right"},
+		{"id":"20f08c896891f867","fromNode":"64171a37d8bb63a1","fromSide":"left","toNode":"b3027634678c1c9f","toSide":"right"}
+	]
+}
