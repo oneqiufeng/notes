@@ -1,2 +1,1 @@
-# obsidian
-this is my obsidian notes
+stuffs may be useless
